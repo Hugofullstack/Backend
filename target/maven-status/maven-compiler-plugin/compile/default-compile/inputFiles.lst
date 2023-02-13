@@ -3,7 +3,6 @@ C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Entity\Persona.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Service\UserDetailsImpl.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Service\SExperiencia.java
-C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\javax\validation\constraints\notNull.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Repository\iRolRepository.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Service\Shys.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Controller\PersonaController.java
@@ -12,7 +11,6 @@ C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Entity\Usuario.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Entity\UsuarioPrincipal.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Repository\REducacion.java
-C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Dto\dtoHys.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Controller\CExperiencia.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Repository\IPersonaRepository.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Service\RolService.java
@@ -30,10 +28,11 @@ C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Entity\hys.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Repository\iUsuarioRepository.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Service\UsuarioService.java
+C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Dto\dtoPersona.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Interface\IPersonaService.java
-C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Repository\UsuarioRepository.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\HnmApplication.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Repository\Rhys.java
+C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Dto\dtoHys.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Repository\RExperiencia.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\Enums\RolNombre.java
 C:\Users\Hugo\Desktop\PROGRAMACION\proyecto integrador\Backend\src\main\java\com\portfolio\hnm\Security\jwt\JwtTokenFilter.java
